@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmixamZ, I currently live in Belgium🇧🇪
 - 👀 I’m interested in development and new technologies
-- 🏋🏽 Currently working as a Software Engineer (C#/.NET - Angular)
-- 🌱 At the moment mainly : Angular (with NgRx) and Flutter (with Riverpod)  
+- 🏋🏽 Currently working as a Freelance - Software Engineer (C#/.NET - Angular)
+- 🌱 [Learning] At the moment mainly : React
 - 💞️ I’m looking to collaborate on any project where I could add some value
 
 

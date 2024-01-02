@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EmixamZ, I currently live in Belgium🇧🇪
+- 👋 Hi, I’m @EmixamZ, I currently live in Belgium 🇧🇪
 - 👀 I’m interested in development and new technologies
-- 🏋🏽 Currently working as a Freelance - Software Engineer (C#/.NET - Angular)
-- 🌱 [Learning] At the moment mainly : NextJS
+- 🏋🏽 Currently working as a Freelance - Software Engineer (C#/.NET - Angular - NextJS)
+- 🌱 [Learning] At the moment mainly : Neo4J
 - 💞️ I’m looking to collaborate on any project where I could add some value
 
 
